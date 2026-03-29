@@ -87,5 +87,12 @@ The fine-tuned model was tested on a sample image:
 | `resnet50_cifar100_finetuned.pth` | Saved fine-tuned model weights |
 
 
+## What I Would Do Differently
+
+I would experiment with a learning rate scheduler to reduce the learning rate as 
+training progressed, which likely would have squeezed out a few more percentage 
+points of accuracy.
+
+
 > **Note:** Model weights (`resnet50_cifar100_finetuned.pth`) are not included 
 > due to file size. Re-run the notebook to reproduce them.
