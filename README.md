@@ -86,3 +86,6 @@ The fine-tuned model was tested on a sample image:
 | `notebook.ipynb` | Full training pipeline — data loading, model setup, training, evaluation and prediction |
 | `resnet50_cifar100_finetuned.pth` | Saved fine-tuned model weights |
 
+
+> **Note:** Model weights (`resnet50_cifar100_finetuned.pth`) are not included 
+> due to file size. Re-run the notebook to reproduce them.
