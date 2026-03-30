@@ -1,4 +1,4 @@
-# Fine-Tuning-ResNet-50-On-CIFAR-100
+# Fine_Tuning_ResNet_50_On_CIFAR_100
 
 Deep Learning project: CNN + ResNet50 fine-tuning on CIFAR-100 with performance optimization and evaluation.
 
